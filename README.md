@@ -3,7 +3,7 @@ A small utility file for converting JavaScript Objects to SQL. Based off of code
 
 # Example:
 
-Users Users
+Sample Table: Users
 id | userName  | firstName | lastName | dob        |   lastLogin   |   favoriteColor
 -------------------------------------------------------------------------------------
 1  | f@foo.com | Fred      |  Doe    | 09/15/2000  |   11/14/2016  |    blue
